@@ -7,7 +7,7 @@
       "gpuType": "T4",
       "mount_file_id": "1ZXYVZs_6o4LCibduxMnUr1YwkRA1ev_6",
       "authorship_tag": "ABX9TyNElExm5Rdit32HnCdmkuKP",
-      "include_colab_link": "https://colab.research.google.com/drive/1ZXYVZs_6o4LCibduxMnUr1YwkRA1ev_6#scrollTo=xq9rp7pNRvLf"
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
